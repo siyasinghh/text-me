@@ -18,10 +18,7 @@ Designed with a clean UI and smooth chat experience, this project is perfect for
 
 - 👤 **User Profiles**  
   Displays username, profile picture, and login status.
-
-- 💬 **Live Typing & Online Status (Optional)**  
-  Implemented via Firebase presence system.
-
+  
 - 🎨 **Modern Chat UI**  
   Responsive interface created with HTML, CSS, and vanilla JavaScript.
 
@@ -40,6 +37,4 @@ Designed with a clean UI and smooth chat experience, this project is perfect for
 ### **Backend / Services**
 - Firebase Realtime Database  
 - Firebase Authentication (OAuth)  
-- Firebase Hosting (optional)
-
 ---
